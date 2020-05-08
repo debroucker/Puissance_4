@@ -23,4 +23,4 @@ To lunch the game, do the command : `$ python3 puissance_4_turtle.py`, and enjoy
 Visual Studio Code
 
 ## Authors
-DEBROUCKER Tommy alias @debroucker
+DEBROUCKER Tommy
